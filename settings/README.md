@@ -11,7 +11,7 @@ Settings that can be loaded directly from this directory into collars! Just copy
 ``https://raw.githubusercontent.com/VirtualDisgrace/peanut/master/settings/norun``
 
 * ``norun~0`` enables one's ability to run away.
-``https://raw.githubusercontent.com/VirtualDisgrace/peanut/master/settings/norun``
+``https://raw.githubusercontent.com/VirtualDisgrace/peanut/master/settings/run``
 
 * ``highlander~0`` disables the safety to prevent wearing multiple cores.
 ``https://raw.githubusercontent.com/VirtualDisgrace/peanut/master/settings/highlander``
