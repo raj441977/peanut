@@ -18,3 +18,4 @@ Settings that can be loaded directly from this directory into collars! Just copy
 
 * ``highlander~0`` disables the safety to prevent wearing multiple cores.
 ``https://raw.githubusercontent.com/VirtualDisgrace/peanut/master/settings/highlander``
+
